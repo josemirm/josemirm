@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @josemirm, an Electronics System Engineering student
+- 👀 I’m interested in close to the hardware PC and embedded development.
+- 🌱 Currently learning some Microsoft Windows Win32 API functions and I'm making some wrappers around them
+- 💞️ Actually looking to collaborate on embedded projects on the ARM platform
+- 📫 To reach me, you can DM me using Telegram (same user name than GitHub) or you can use ```josem.rod.marc ([at]) gmail ([dot]) com```
